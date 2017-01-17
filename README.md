@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/XOSplicer/rayon_macros.svg?branch=master)](https://travis-ci.org/XOSplicer/rayon_macros)
+
 # rayon_macros
 Utility Macros for Rayon Library in Rust
 
